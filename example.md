@@ -1,0 +1,13 @@
+- authors:: Dixon, M. J., & Coles, S. G.
+- year:: [[1997]]
+- title:: modelling [[association football]] scores and inefficiencies in the football betting market
+- journal:: Applied Statistics, 46(2)
+- **Pages:** 265–280
+- keywords::
+    - [[betting strategy]]
+    - [[expected return]]
+    - [[football]]
+    - [[soccer]]
+    - [[maximum likelihood]]
+    - [[[[poisson]] distribution]]
+- abstract:: A parametric model is developed to fit English league and cup [[football]] data from 1992 to 1995. The model is motivated by an aim to exploit potential inefficiencies in the [[association football]] [[betting]] market, and this is examined using bookmakers' odds from 1995 to 1996. The technique used is based on a [[[[poisson]] regression model]] but is complicated by the data structure and dynamic nature of teams' performances. [[maximum likelihood]] estimates are shown to me computationally obtainable, and the model is shown to have a positive return when used as the basis of a betting strategy.
